@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 1-mansaf
 2-mandi
 3-kabsa
+=======
+1-I saw the devil
+2-The Departed
+3-The Godfather
+>>>>>>> movies
